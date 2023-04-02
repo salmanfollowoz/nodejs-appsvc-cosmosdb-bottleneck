@@ -10,11 +10,11 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: '<Name of your webapp>'
-  serviceConnection: '<Name of your webARM Service connection>'
-  azureSubscriptionId: '<Azure subscriptionId>'
-  loadTestResource: '<Name of your load test resource>'
-  loadTestResourceGroup: '<Name of your load test resource group>'
+  webAppName: 'nodejs-appsvc-cosmosdb-bottleneck'
+  serviceConnection: 'jmetercicd'
+  azureSubscriptionId: '3c293bc3-b152-4bf1-b24b-7afb7adae474'
+  loadTestResource: 'csg10032002901245fb'
+  loadTestResourceGroup: 'cloud-shell-storage-centralindia'
   location: 'EAST US'
 
 

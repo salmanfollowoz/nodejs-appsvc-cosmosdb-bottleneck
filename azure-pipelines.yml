@@ -15,7 +15,6 @@ variables:
   azureSubscriptionId: '3c293bc3-b152-4bf1-b24b-7afb7adae474'
   loadTestResource: 'csg10032002901245fb'
   loadTestResourceGroup: 'cloud-shell-storage-centralindia'
-  location: 'CENTRAL INDIA'
 
 
 stages:
